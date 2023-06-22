@@ -1,2 +1,2 @@
 Dette skal ikke til GitHub:
-token = 
+token = d
